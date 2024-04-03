@@ -1,10 +1,9 @@
 const CustomInput = () => {
-	return (
-		<div>
-			<input placeholder="rwrweq" type="text" />
-			<textarea placeholder="ygg"/>
-		</div>
-	);
+  return (
+    <>
+      <input style={{ background: "red" }} placeholder="name" type="text" />
+    </>
+  );
 };
 
 export default CustomInput;
