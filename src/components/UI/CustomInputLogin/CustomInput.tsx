@@ -1,9 +1,8 @@
 const CustomInput = () => {
   return (
-    <div>
-      <input type="text" />
-      <input type="text" />
-    </div>
+    <>
+      <input style={{ background: "red" }} placeholder="name" type="text" />
+    </>
   );
 };
 
