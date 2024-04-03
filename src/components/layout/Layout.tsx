@@ -7,9 +7,8 @@ const Layout = () => {
 	return (
 		<div className={scss.Layout}>
 			<Header />
-			<main>
-				<CustomButton children={"Login"} />
-			</main>
+			<main>main</main>
+			<CustomButton children={undefined} />
 			<Footer />
 		</div>
 	);
