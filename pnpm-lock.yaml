@@ -23,6 +23,9 @@ dependencies:
   react-router-dom:
     specifier: ^6.22.3
     version: 6.22.3(react-dom@18.2.0)(react@18.2.0)
+  saas:
+    specifier: ^1.0.0
+    version: 1.0.0
   sass:
     specifier: ^1.72.0
     version: 1.72.0
@@ -1681,6 +1684,10 @@ packages:
     dependencies:
       queue-microtask: 1.2.3
     dev: true
+
+  /saas@1.0.0:
+    resolution: {integrity: sha512-FgayhFS18BlPfcyMcOqxD7PIyNyUjqyv8R+rsr3X2KRK2icEUL4uvWBF+lZ0IPqJIO2kUO0d20OXY+R+pdriqg==}
+    dev: false
 
   /sass@1.72.0:
     resolution: {integrity: sha512-Gpczt3WA56Ly0Mn8Sl21Vj94s1axi9hDIzDFn9Ph9x3C3p4nNyvsqJoQyVXKou6cBlfFWEgRW4rT8Tb4i3XnVA==}
