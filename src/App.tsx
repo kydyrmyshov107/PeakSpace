@@ -1,4 +1,4 @@
-import CustomInput from "./components/UI/CustomInputLogin/CustomInput";
+import CustomInput from "./components/UI/CustomInput/CustomInput";
 import Layout from "./components/layout/Layout";
 
 const App = () => {
