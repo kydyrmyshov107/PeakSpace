@@ -1,7 +1,7 @@
 import styles from "./CustomInputLogin.module.scss";
 
-const CustomInput = () => {
+const CustomInputLogin = () => {
   return <input className={styles.input} placeholder="name" type="text" />;
 };
 
-export default CustomInput;
+export default CustomInputLogin;
